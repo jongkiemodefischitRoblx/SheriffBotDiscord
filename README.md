@@ -1,0 +1,2 @@
+# SheriffBotDiscord
+Only For Primision
